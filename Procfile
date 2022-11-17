@@ -1,1 +1,1 @@
-web: waitress-serve --port=$PORT learning_templates.wsgi:application
+web: waitress-serve --port=$PORT level_two_project.wsgi:application
